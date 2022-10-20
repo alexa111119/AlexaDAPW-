@@ -1,1 +1,0 @@
-El gestor de base de datos MySQL es el más común en la actualidad al estar basado en código abierto. Se trata de un sistema de gestión relacional, es decir, utiliz
